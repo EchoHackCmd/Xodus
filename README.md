@@ -4,6 +4,8 @@ Minecraft Version: 1.11.1 (Bedrock Edition)
 
 Xodus Version: 0.7
 
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/0.7/Xodus-0.7.exe
+
 Modules:
 
 - Rapid Hit
