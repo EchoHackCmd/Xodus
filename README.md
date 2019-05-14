@@ -4,7 +4,7 @@ Minecraft Version: 1.11.1 (Bedrock Edition)
 
 Xodus Version: 0.8
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/0.7/Xodus-0.7.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/0.9/Xodus-0.9.exe
 
 Modules:
 
