@@ -2,7 +2,7 @@
 
 Minecraft Version: 1.11.1 (Bedrock Edition)
 
-Xodus Version: 0.7
+Xodus Version: 0.8
 
 Download: https://github.com/EchoHackCmd/Xodus/releases/download/0.7/Xodus-0.7.exe
 
@@ -20,6 +20,9 @@ Modules:
 - Step Assist
 - Gamemode
 - Phase
+- Air Acceleration Speed
+- AntiKnockBack
+- AntiWeb
 
 Keybinds:
 
@@ -36,3 +39,9 @@ Keybinds:
 - F: Creative
 - G: Survival
 - L: Phase
+- V: Air Acceleration Speed
+- K: AntiKnockBack
+- I: AntiWeb
+- <: Module Value Decrease
+- >: Module Value Increase
+- LSHIFT: Reset Module Addresses (Scans again)
