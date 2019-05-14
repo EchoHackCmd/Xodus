@@ -23,6 +23,7 @@ Modules:
 - Air Acceleration Speed
 - AntiKnockBack
 - AntiWeb
+- Scaffold
 
 Keybinds:
 
