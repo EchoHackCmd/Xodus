@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.1 (Bedrock Edition)
 
-Xodus Version: 1.0
+Xodus Version: 1.1
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.0/Xodus-1.0.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.1/Xodus-1.1.exe
 
 Modules:
 
@@ -24,6 +24,8 @@ Modules:
 - AntiKnockBack
 - AntiWeb
 - Scaffold
+- Auto Sprint
+- NoSlowDown
 
 Keybinds:
 
@@ -43,6 +45,8 @@ Keybinds:
 - V: Air Acceleration Speed
 - K: AntiKnockBack
 - I: AntiWeb
+- X: Auto Sprint
+- C: NoSlowDown
 - "<": Module Value Decrease
 - ">": Module Value Increase
 - LSHIFT: Reset Module Addresses (Scans again)
