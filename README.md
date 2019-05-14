@@ -42,6 +42,6 @@ Keybinds:
 - V: Air Acceleration Speed
 - K: AntiKnockBack
 - I: AntiWeb
-- <: Module Value Decrease
-- >: Module Value Increase
+- "<": Module Value Decrease
+- ">": Module Value Increase
 - LSHIFT: Reset Module Addresses (Scans again)
