@@ -2,12 +2,13 @@
 
 Minecraft Version: 1.11.1 (Bedrock Edition)
 
-Xodus Version: 1.1
+Xodus Version: 1.2
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.1/Xodus-1.1.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.2/Xodus-1.2.exe
 
 Modules:
 
+- Aimbot
 - Rapid Hit
 - Glide
 - Air Jump
@@ -26,6 +27,7 @@ Modules:
 - Scaffold
 - Auto Sprint
 - NoSlowDown
+- Cubecraft Speed Bypass
 
 Keybinds:
 
@@ -47,6 +49,8 @@ Keybinds:
 - I: AntiWeb
 - X: Auto Sprint
 - C: NoSlowDown
+- B: Aimbot
+- Y: Cubecraft Speed Bypass
 - "<": Module Value Decrease
 - ">": Module Value Increase
 - LSHIFT: Reset Module Addresses (Scans again)
