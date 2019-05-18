@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.1 (Bedrock Edition)
 
-Xodus Version: 1.6
+Xodus Version: 1.7
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.6/Xodus-1.6.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.7/Xodus-1.7.exe
 
 Modules:
 
@@ -53,4 +53,4 @@ Keybinds:
 - Y: Cubecraft Speed Bypass
 - "<": Module Value Decrease
 - ">": Module Value Increase
-- LSHIFT: Reset Module Addresses (Scans again)
+- LCTRL: Reset Module Addresses (Scans again)
