@@ -2,16 +2,18 @@
 
 Minecraft Version: 1.11.1 (Bedrock Edition)
 
-Xodus Version: 1.7
+Xodus Version: 1.8
 
 Download: https://github.com/EchoHackCmd/Xodus/releases/download/1.7/Xodus-1.7.exe
 
 Modules:
 
 - Aimbot
+- Hitbox
 - Rapid Hit
 - Glide
 - Air Jump
+- Air Jump 2
 - BHOP
 - Jesus
 - Step
@@ -28,6 +30,7 @@ Modules:
 - Auto Sprint
 - NoSlowDown
 - Cubecraft Speed Bypass
+- No Packet
 
 Keybinds:
 
@@ -50,6 +53,9 @@ Keybinds:
 - X: Auto Sprint
 - C: NoSlowDown
 - B: Aimbot
+- M: Air Jump 2
+- N: Hitbox
+- J: No Packet
 - Y: Cubecraft Speed Bypass
 - "<": Module Value Decrease
 - ">": Module Value Increase
