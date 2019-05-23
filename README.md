@@ -1,6 +1,6 @@
 # Xodus is a free Minecraft Windows 10 Edition Cheat written in C++ 
 
-Minecraft Version: 1.11.1 (Bedrock Edition)
+Minecraft Version: 1.11.3 (Bedrock Edition)
 
 Xodus Version: 2.1
 
