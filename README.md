@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 2.3
+Xodus Version: 2.4
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.3/Xodus-2.3.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.4/Xodus-2.4.exe
 
 Modules:
 
