@@ -1,10 +1,10 @@
 # Xodus is a free Minecraft Windows 10 Edition Cheat written in C++ 
 
-Minecraft Version: 1.11.3 (Bedrock Edition)
+Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 2.1
+Xodus Version: 2.2
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.1/Xodus-2.1.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.2/Xodus-2.2.exe
 
 Modules:
 
@@ -59,4 +59,3 @@ Keybinds:
 - Y: Cubecraft Speed Bypass
 - "<": Module Value Decrease
 - ">": Module Value Increase
-- LCTRL: Reset Module Addresses (Scans again)
