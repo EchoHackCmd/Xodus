@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 2.4
+Xodus Version: 2.5
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.4/Xodus-2.4.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.5/Xodus-2.5.exe
 
 Modules:
 
@@ -29,7 +29,6 @@ Modules:
 - Scaffold
 - Auto Sprint
 - NoSlowDown
-- Cubecraft Speed Bypass
 - No Packet
 
 Keybinds:
@@ -56,6 +55,7 @@ Keybinds:
 - M: Air Jump 2
 - N: Hitbox
 - J: No Packet
-- Y: Cubecraft Speed Bypass
+- Y: Panic Mode Toggle
+- O: Keybind Lock
 - "<": Module Value Decrease
 - ">": Module Value Increase
