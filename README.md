@@ -30,6 +30,7 @@ Modules:
 - Auto Sprint
 - NoSlowDown
 - No Packet
+- Trigger Bot
 
 Keybinds:
 
