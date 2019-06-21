@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 2.8
+Xodus Version: 2.9
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.8/Xodus-2.8.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.9/Xodus-2.9.exe
 
 Modules:
 
@@ -58,6 +58,7 @@ Keybinds:
 - J: No Packet
 - 0: Trigger Bot
 - U: InstaEat
+- CTRL + 0: Keybind Lock
 - Y: Panic Mode Toggle
 - "<": Module Value Decrease
 - ">": Module Value Increase
