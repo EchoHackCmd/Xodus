@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 2.9
+Xodus Version: 3.0
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/2.9/Xodus-2.9.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/3.0/Xodus-3.0.exe
 
 Modules:
 
@@ -31,7 +31,8 @@ Modules:
 - NoSlowDown
 - No Packet
 - Trigger Bot
-- InstaEat
+- Jetpack
+- AntiAFK
 
 Keybinds:
 
@@ -45,7 +46,8 @@ Keybinds:
 - NUMPAD8: Vanilla No Fall
 - NUMPAD9: Speed
 - P: Step Assist
-- F: Creative/Survival
+- F: Jetpack
+- G: Creative/Survival
 - L: Phase
 - V: Air Acceleration Speed
 - K: AntiKnockBack
@@ -57,7 +59,7 @@ Keybinds:
 - N: Hitbox
 - J: No Packet
 - 0: Trigger Bot
-- U: InstaEat
+- U: AntiAFK
 - CTRL + 0: Keybind Lock
 - Y: Panic Mode Toggle
 - "<": Module Value Decrease
