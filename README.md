@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 3.1
+Xodus Version: 3.2
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/3.1/Xodus-3.1.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/3.2/Xodus-3.2.exe
 
 Modules:
 
@@ -60,6 +60,7 @@ Keybinds:
 - J: No Packet
 - 0: Trigger Bot
 - U: AntiAFK
+- TAB: Cubecraft Speed
 - CTRL + 0: Keybind Lock
 - Y: Panic Mode Toggle
 - "<": Module Value Decrease
