@@ -6,6 +6,8 @@ Xodus Version: 3.3
 
 Download: https://github.com/EchoHackCmd/Xodus/releases/download/3.3/Xodus-3.3.exe
 
+Print Modules & Keybinds: F4
+
 Modules:
 
 - Aimbot
