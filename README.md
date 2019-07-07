@@ -2,9 +2,9 @@
 
 Minecraft Version: 1.11.4 (Bedrock Edition)
 
-Xodus Version: 3.2
+Xodus Version: 3.3
 
-Download: https://github.com/EchoHackCmd/Xodus/releases/download/3.2/Xodus-3.2.exe
+Download: https://github.com/EchoHackCmd/Xodus/releases/download/3.3/Xodus-3.3.exe
 
 Modules:
 
@@ -33,6 +33,8 @@ Modules:
 - Trigger Bot
 - Jetpack
 - AntiAFK
+- Inventory Move
+- Flight
 
 Keybinds:
 
@@ -60,8 +62,10 @@ Keybinds:
 - J: No Packet
 - 0: Trigger Bot
 - U: AntiAFK
-- TAB: Cubecraft Speed
+- TAB: Velocity Speed
+- H: Inventory Move
+- Z: Flight
 - CTRL + 0: Keybind Lock
 - Y: Panic Mode Toggle
-- "<": Module Value Decrease
-- ">": Module Value Increase
+- UP Arrow & Module Key: Increase Module Value
+- DOWN Arrow & Module Key: Decrease Module Value
